@@ -1,4 +1,4 @@
-def calc_temp
+def calc_temp(tempCelcius):
     tempFahrenheit = (tempCelcius * 1.8) + 32
     print(tempFahrenheit)
     return tempFahrenheit
